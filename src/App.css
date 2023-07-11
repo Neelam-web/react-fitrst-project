@@ -1,0 +1,182 @@
+.con{
+    width: 450px !important;
+    height: 300;
+    border: 1px solid;
+    margin-bottom: 15px;
+   box-shadow: 11px 12px 13px 12px black ;
+   background-color:rgb(255, 172, 18);
+   color: black;
+   margin-bottom: 25;
+   margin-top: 5px;
+   margin-right: 0px;
+   margin-left: 500px;
+   
+}
+
+.bttn{
+
+     margin-top: 35px;
+     margin-bottom: 5px;
+     border-radius: 100px;
+     height: 40px;
+     width: 250px;
+     background-color:  black!important;
+    color: white!important;
+    font-weight: 500;
+}
+.lg{
+    padding-bottom: 55px;
+     padding-top: 0px;
+     margin-top: 0px;
+     color:  black;
+     
+     
+
+}.image{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_Dml4ZgKYzsAS0KECYxhEAFSRqpxfrCg4QA&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: contain;
+
+    
+
+
+}
+
+.bttn:hover{
+ background-color: white!important;;
+ color:  black!important;
+
+}
+.link{
+font-size: 15px;
+padding-top: 15px;
+color: whitesmoke;
+
+}
+
+.icon{
+
+     color: whitesmoke;
+     background-color: black;
+     margin-left: 10px;
+}
+
+.font{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-weight: bold;
+   font-size: 15px;
+   color: black;
+  text-decoration: dotted;
+
+}
+.email{
+color: black;
+font-weight: bold;
+
+}
+.pass{
+
+    color: black;
+    font-weight: bold;
+ 
+}
+.home{
+
+
+    background-image: url("https://st4.depositphotos.com/4678277/40811/i/450/depositphotos_408110334-stock-photo-full-length-body-size-view.jpg");
+    background-repeat: no-repeat;
+   background-size: cover;
+   margin-left: 10px;
+   margin-right: 10px;
+   
+}
+
+.cen{
+
+    color: black;
+    padding-top: 20px;
+    font-weight: bold;
+    font-size: larger;
+    padding-left: 5px;
+    margin-left: 5px;
+    margin-top: 5px;
+    align-items: center;
+}
+
+.category{
+         background-color: white;
+         color: black;
+         text-decoration: none;
+         border: red;
+}
+.cat{
+    background-color: white;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    color:black;
+    font-size: 20px;
+    font-weight: bold;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWPD2xZ2m2mmCNRHpKJj-dlrNMZI243li8_w&usqp=CAU");
+    background-repeat: no-repeat;
+   background-size: cover;
+
+}.bgpics{
+
+    background-color: gray ;
+ 
+ 
+}.star{
+  background-color: black;
+ 
+
+}.navcolor{
+
+background-color:  rgb(255, 172, 18);
+color: white;
+}.page404{
+    width: 1400px;
+    height: 1100px;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    background-image: url("https://img.freepik.com/premium-vector/404-error-page-found-emoji-sad-smile-illustration-web-design-404-site-page_41737-574.jpg?w=2000");
+    background-size: cover;
+  
+
+}.navcolor:hover{
+
+    background-color: rgb(12, 236, 12);
+    color: white;
+    }.loader{
+
+margin-left: 50px;
+
+    }.rec{
+        padding-left: 5px;
+        font-weight: bold;
+        font-size: 15px;
+
+    }.footer{
+        width: 100%;
+        height: 50px;
+        background-color: black;
+        color: white;
+        margin-left: 5px;
+        padding-top: 30px;
+        padding-left: 40%;
+        padding-bottom: 25px;
+        
+}.signup{
+    width: 450px !important;
+    height: 250;
+    border: 1px solid;
+    margin-bottom: 5px;
+   box-shadow: 11px 12px 13px 12px black;
+   background-color: rgb(148, 240, 11);
+   color: black;
+   margin-bottom: 25;
+   margin-top: 0px;
+   margin-right: 0px;
+   margin-left: 500px;
+   
+}
